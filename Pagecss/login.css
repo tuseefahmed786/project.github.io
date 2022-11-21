@@ -5,3 +5,7 @@
     justify-content: space-evenly;
     align-items: center;
 }
+
+body {
+    background: #ffd5d5;
+}
