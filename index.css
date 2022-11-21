@@ -138,11 +138,20 @@ color: var(--white);
         top: 2rem;
         width: 7rem;
     }
+    .hero_text{
+        position: relative;
+        top: 3rem;
+    }
 }
 
 /* hero end */
 
 /* second secition start  */
+
+.second_main_text {
+    margin-top: 2rem;
+    padding: 0 1rem;
+}
 
 .section_second {
     display: flex;
