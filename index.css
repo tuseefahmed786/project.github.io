@@ -16,7 +16,7 @@ body{
 .max_width{
     max-width: 1600px;
     margin: auto;
-    padding: 1rem;
+    padding: 0 1rem;
 }
 .navbar{
 display: flex;
@@ -51,6 +51,9 @@ color: black;
      .hero_text{
     padding: 1rem;
    }
+    .navbar{
+     margin-top: 0;   
+    }
   }
  /* End Nav Bar  */
 
@@ -59,7 +62,7 @@ color: black;
 
 .logo_align{
         position: absolute;
-    top: 2rem;
+    top: 1rem;
 }
 
 .logo_align img{
