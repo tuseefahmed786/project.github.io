@@ -3,6 +3,7 @@
 }
 body{
     margin: 0;
+    background: #fbe6e6;
 }
 :root{
     --blue: #1e90ff;
@@ -13,8 +14,6 @@ body{
   }
 
 header{
-
-    background: url(Assests/HeaderPhoto/HeaderBg.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -43,7 +42,7 @@ header nav ul li{
     padding: 0px var(--padd);
 }
 header nav ul a {
-color: var(--white);
+color: black;
     text-decoration: none;
     font-size: larger;
     font-family: var(--cfont);
@@ -84,7 +83,7 @@ color: var(--white);
     flex-direction: row;
     justify-content: space-between;
       align-items: center;
-    color: var(--white);
+    color: black;
     
 }
 
