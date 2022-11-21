@@ -85,8 +85,6 @@ color: var(--white);
 }
 
 .hero_text{
-    position: relative;
-    top: 3rem;
     margin-bottom: 5rem;
 }
 
