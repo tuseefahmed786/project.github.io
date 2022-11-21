@@ -46,10 +46,13 @@ color: var(--white);
     
 
 }
-@media screen and (max-width: 476px) {
+@media screen and (max-width: 572px) {
     .navbar_align {
         display: none;
     }
+     .hero_text{
+    padding: 1rem;
+   }
   }
  /* End Nav Bar  */
 
